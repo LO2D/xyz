@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
-@media(min-width: 1025px) {
+@media(min-width: 768px) {
 body {
     /*background-image: -webkit-gradient(
         radial,

@@ -558,7 +558,7 @@ h1 {
       margin-top: 30%;
       margin-left: 80%; } }
     }
-@media(min-width: 0px) and (max-width: 767px) {
+@media(max-width: 767px) {
     body {
         /*background-image: -webkit-gradient(
             radial,
@@ -599,7 +599,7 @@ h1 {
         padding-top: 30px;
         position: relative;
         font-family: "Wendy One", sans-serif;
-        margin-top: 400px;
+        /*margin-top: 400px;*/
     }
     .balloon > div {
         width: 104px;
@@ -767,7 +767,7 @@ h1 {
         margin-left: -27px;
     }
     .codeby{
-        font-size: 30px;
+        font-size: 20px;
         color: rgb(3, 20, 248); 
         font-family: "Monospace";
     }
